@@ -1,0 +1,51 @@
+{
+  "name": "shipfast",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth/mongodb-adapter": "^2.0.0",
+    "@radix-ui/react-avatar": "^1.0.3",
+    "@radix-ui/react-dropdown-menu": "^2.0.5",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@stripe/stripe-js": "^2.1.6",
+    "@types/node": "20.6.0",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.15",
+    "axios": "^1.5.0",
+    "bcryptjs": "^2.4.3",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "eslint": "8.49.0",
+    "eslint-config-next": "^13.5.1",
+    "http-status-codes": "^2.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "lucide-react": "^0.279.0",
+    "mongodb": "^6.0.0",
+    "mongoose": "^7.5.0",
+    "next": "^13.5.1",
+    "next-auth": "^4.23.1",
+    "nodemailer": "^6.9.5",
+    "postcss": "8.4.29",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.46.1",
+    "react-hot-toast": "^2.4.1",
+    "stripe": "^13.6.0",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss": "3.3.3",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.3",
+    "@types/jsonwebtoken": "^9.0.2",
+    "@types/nodemailer": "^6.4.9"
+  }
+}
