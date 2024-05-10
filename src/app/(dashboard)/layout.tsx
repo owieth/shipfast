@@ -1,4 +1,4 @@
-import "src/app/globals.css";
+import "@/app/globals.css";
 import type { Metadata } from "next";
 import { Inter, Poppins } from "next/font/google";
 import Navbar from "@/components/navbar/Navbar";
