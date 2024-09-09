@@ -7,25 +7,25 @@
   resolved "https://registry.yarnpkg.com/@alloc/quick-lru/-/quick-lru-5.2.0.tgz#7bf68b20c0a350f936915fcae06f58e32007ce30"
   integrity sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw==
 
-"@auth/core@0.29.0":
-  version "0.29.0"
-  resolved "https://registry.yarnpkg.com/@auth/core/-/core-0.29.0.tgz#764c3cf4ebfb4ab248f24a1ee18d67ae1c5e433b"
-  integrity sha512-MdfEjU6WRjUnPG1+XeBWrTIlAsLZU6V0imCIqVDDDPxLI6UZWldXVqAA2EsDazGofV78jqiCLHaN85mJITDqdg==
+"@auth/core@0.34.2":
+  version "0.34.2"
+  resolved "https://registry.yarnpkg.com/@auth/core/-/core-0.34.2.tgz#645fd1f972842ca473d110a34a5a36838209bf10"
+  integrity sha512-KywHKRgLiF3l7PLyL73fjLSIBe1YNcA6sMeew4yMP6cfCWGXZrkkXd32AjRi1hlJ9nvovUBGZHvbn+LijO6ZeQ==
   dependencies:
     "@panva/hkdf" "^1.1.1"
     "@types/cookie" "0.6.0"
     cookie "0.6.0"
     jose "^5.1.3"
-    oauth4webapi "^2.4.0"
+    oauth4webapi "^2.10.4"
     preact "10.11.3"
     preact-render-to-string "5.2.3"
 
-"@auth/mongodb-adapter@^2.0.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@auth/mongodb-adapter/-/mongodb-adapter-2.6.0.tgz#60870e3fde0e5c0756261e9ddc638ed56767475a"
-  integrity sha512-q3He1+etx3c80v+L8RxaHAAoj3b/x0HlL1IctnYa2JXjA38t6WIacR9o1DfEN1Xp0zBs94OocHemGirWrv1ucg==
+"@auth/mongodb-adapter@^3.4.2":
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/@auth/mongodb-adapter/-/mongodb-adapter-3.4.2.tgz#98735266d9ef2037ef7fa63136407f3fd586f67d"
+  integrity sha512-Vg6c6FIoVeBjNV4PL6CD6owR5u80+wpNJINszUwLHxBnF2GljqYLHNFSgp9Xtjefp1CUtMEKfv9vXiVi2x9PMQ==
   dependencies:
-    "@auth/core" "0.29.0"
+    "@auth/core" "0.34.2"
 
 "@babel/runtime@^7.13.10", "@babel/runtime@^7.20.13", "@babel/runtime@^7.23.2":
   version "7.24.5"
@@ -2559,10 +2559,10 @@ normalize-range@^0.1.2:
   resolved "https://registry.yarnpkg.com/normalize-range/-/normalize-range-0.1.2.tgz#2d10c06bdfd312ea9777695a4d28439456b75942"
   integrity sha512-bdok/XvKII3nUpklnV6P2hxtMNrCboOjAcyBuQnWEhO665FwrSNRxU+AqpsyvO6LgGYPspN+lu5CLtw4jPRKNA==
 
-oauth4webapi@^2.4.0:
-  version "2.10.4"
-  resolved "https://registry.yarnpkg.com/oauth4webapi/-/oauth4webapi-2.10.4.tgz#4194b784e0ff995edd64bd90177fd7f25b7fbb17"
-  integrity sha512-DSoj8QoChzOCQlJkRmYxAJCIpnXFW32R0Uq7avyghIeB6iJq0XAblOD7pcq3mx4WEBDwMuKr0Y1qveCBleG2Xw==
+oauth4webapi@^2.10.4:
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/oauth4webapi/-/oauth4webapi-2.12.1.tgz#248de5e9c9e33aa27a85d3fc19e4e6b1809969d2"
+  integrity sha512-7lgyz74z5NJ1dRbZSnL/YCJt7UMhNOqQ8I6Jokh/Et66GVK6KfFikzU98i5PTbgbrsSmxzsQprJdI3Z+5Uwj2Q==
 
 oauth@^0.9.15:
   version "0.9.15"
