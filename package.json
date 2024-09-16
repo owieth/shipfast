@@ -30,7 +30,7 @@
     "mongodb": "^6.0.0",
     "mongoose": "^8.6.1",
     "next": "^14.1.1",
-    "next-auth": "^4.24.5",
+    "next-auth": "^4.24.7",
     "nodemailer": "^6.9.14",
     "postcss": "8.4.44",
     "react": "^18.2.0",
