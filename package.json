@@ -27,7 +27,7 @@
     "http-status-codes": "^2.3.0",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.452.0",
-    "mongodb": "^6.9.0",
+    "mongodb": "^6.10.0",
     "mongoose": "^8.6.1",
     "next": "^14.2.15",
     "next-auth": "^4.24.8",
