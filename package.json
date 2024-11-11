@@ -31,7 +31,7 @@
     "mongoose": "^8.8.1",
     "next": "^14.2.15",
     "next-auth": "^4.24.8",
-    "nodemailer": "^6.9.15",
+    "nodemailer": "^6.9.16",
     "postcss": "8.4.48",
     "react": "^18.2.0",
     "react-dom": "^18.3.1",
