@@ -7,24 +7,23 @@
   resolved "https://registry.yarnpkg.com/@alloc/quick-lru/-/quick-lru-5.2.0.tgz#7bf68b20c0a350f936915fcae06f58e32007ce30"
   integrity sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw==
 
-"@auth/core@0.37.3":
-  version "0.37.3"
-  resolved "https://registry.yarnpkg.com/@auth/core/-/core-0.37.3.tgz#4a6d5475d14a6eb011c8acf0d2c2759a97a936f7"
-  integrity sha512-qcffDLwxB9iUYH8GHq68w/KU8jtjAbjjk9xnpoKhjX3+QcntaQ2MKVSkTTocmA6ElpL5vK2xR9CXfQ98dvGnyg==
+"@auth/core@0.37.4":
+  version "0.37.4"
+  resolved "https://registry.yarnpkg.com/@auth/core/-/core-0.37.4.tgz#c51410aa7d0997fa22a07a196d2c21c8b1bca71b"
+  integrity sha512-HOXJwXWXQRhbBDHlMU0K/6FT1v+wjtzdKhsNg0ZN7/gne6XPsIrjZ4daMcFnbq0Z/vsAbYBinQhhua0d77v7qw==
   dependencies:
     "@panva/hkdf" "^1.2.1"
-    cookie "1.0.1"
     jose "^5.9.6"
     oauth4webapi "^3.1.1"
     preact "10.24.3"
     preact-render-to-string "6.5.11"
 
-"@auth/mongodb-adapter@^3.7.3":
-  version "3.7.3"
-  resolved "https://registry.yarnpkg.com/@auth/mongodb-adapter/-/mongodb-adapter-3.7.3.tgz#aaae631cd97b31a38ee4c36ebf2c4519616b2905"
-  integrity sha512-OYr4crhiQAii6tsXtqk8GYkr176sMDB8qoWVse9B2NVJK4wCCki77iGImrgVjxKBbOVD58mUQRjNy4PbIRYEfA==
+"@auth/mongodb-adapter@^3.7.4":
+  version "3.7.4"
+  resolved "https://registry.yarnpkg.com/@auth/mongodb-adapter/-/mongodb-adapter-3.7.4.tgz#02bdd79274c59cb2dba741bed08bc2bbe790fe45"
+  integrity sha512-EZ7aSNnPWNVEtYRCmUbHtb3UxGNB52EJpVq0NDFdbxHypeqdUaz8ClHoKO/o99lQUT1BWCli819dlldWUKyEgw==
   dependencies:
-    "@auth/core" "0.37.3"
+    "@auth/core" "0.37.4"
 
 "@babel/runtime@^7.13.10", "@babel/runtime@^7.20.13", "@babel/runtime@^7.23.2":
   version "7.24.5"
@@ -1063,11 +1062,6 @@ concat-map@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
-
-cookie@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/cookie/-/cookie-1.0.1.tgz#e1a00d20420e0266aff817815640289eef142751"
-  integrity sha512-Xd8lFX4LM9QEEwxQpF9J9NTUh8pmdJO0cyRJhFiDoLTk2eH8FXlRv2IFGYVadZpqI3j8fhNrSdKCeYPxiAhLXw==
 
 cookie@^0.5.0:
   version "0.5.0"
