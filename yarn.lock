@@ -2626,10 +2626,10 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-lucide-react@^0.475.0:
-  version "0.475.0"
-  resolved "https://registry.yarnpkg.com/lucide-react/-/lucide-react-0.475.0.tgz#4b7b62c024f153ee4b52a6a0f33f9e72f07156f0"
-  integrity sha512-NJzvVu1HwFVeZ+Gwq2q00KygM1aBhy/ZrhY9FsAgJtpB+E4R7uxRk9M2iKvHa6/vNxZydIB59htha4c2vvwvVg==
+lucide-react@^0.482.0:
+  version "0.482.0"
+  resolved "https://registry.yarnpkg.com/lucide-react/-/lucide-react-0.482.0.tgz#0277ec1c728bfcacab0ea8c4fb4aa5cc2f155623"
+  integrity sha512-XM8PzHzSrg8ATmmO+fzf+JyYlVVdQnJjuyLDj2p4V2zEtcKeBNAqAoJIGFv1x2HSBa7kT8gpYUxwdQ0g7nypfw==
 
 math-intrinsics@^1.1.0:
   version "1.1.0"
