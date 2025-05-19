@@ -3036,10 +3036,10 @@ node-releases@^2.0.19:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.19.tgz#9e445a52950951ec4d177d843af370b411caf314"
   integrity sha512-xxOWJsBKtzAq7DY0J+DTzuz58K8e7sJbdgwkbMWQe8UYB6ekmsQ45q0M/tJDsGaZmbC+l7n57UV8Hl5tHxO9uw==
 
-nodemailer@^7.0.2:
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-7.0.2.tgz#29d2bf5a54898f1967174d8a050466e2ae8aa6dd"
-  integrity sha512-SYsisPeLFYli5Q+BCGSyHT5CVvezPmQjHgINV9KVvVLV1aktuoD4E0Np9Q3ND9I481qIHzUQzVT+Tl/Tw7Ivdg==
+nodemailer@^7.0.3:
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-7.0.3.tgz#c098ce79ac60c7c111a86949eed2f99bd00cdac3"
+  integrity sha512-Ajq6Sz1x7cIK3pN6KesGTah+1gnwMnx5gKl3piQlQQE/PwyJ4Mbc8is2psWYxK3RJTVeqsDaCv8ZzXLCDHMTZw==
 
 normalize-range@^0.1.2:
   version "0.1.2"
