@@ -35,7 +35,7 @@
     "postcss": "8.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-hook-form": "^7.56.2",
+    "react-hook-form": "^7.56.4",
     "react-hot-toast": "^2.5.2",
     "stripe": "^18.1.0",
     "tailwind-merge": "^3.2.0",
