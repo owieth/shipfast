@@ -2711,7 +2711,7 @@ mongodb-connection-string-url@^3.0.0:
     "@types/whatwg-url" "^11.0.2"
     whatwg-url "^13.0.0"
 
-mongodb@^6.18.0:
+mongodb@^6.18.0, mongodb@~6.18.0:
   version "6.18.0"
   resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-6.18.0.tgz#8fab8f841443080924f2cdaa22727cdb7eb20dc3"
   integrity sha512-fO5ttN9VC8P0F5fqtQmclAkgXZxbIkYRTUi1j8JO6IYwvamkhtYDilJr35jOPELR49zqCJgXZWwCtW7B+TM8vQ==
@@ -2720,23 +2720,14 @@ mongodb@^6.18.0:
     bson "^6.10.4"
     mongodb-connection-string-url "^3.0.0"
 
-mongodb@~6.17.0:
-  version "6.17.0"
-  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-6.17.0.tgz#b52da4e3cdf62299e55c51584cb5657283157594"
-  integrity sha512-neerUzg/8U26cgruLysKEjJvoNSXhyID3RvzvdcpsIi2COYM3FS3o9nlH7fxFtefTb942dX3W9i37oPfCVj4wA==
-  dependencies:
-    "@mongodb-js/saslprep" "^1.1.9"
-    bson "^6.10.4"
-    mongodb-connection-string-url "^3.0.0"
-
-mongoose@^8.16.3:
-  version "8.16.3"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-8.16.3.tgz#a3662d9032b1c4fc4d0869fe1ec95dfd4f25fde4"
-  integrity sha512-p2JOsRQG7j0vXhLpsWw5Slm2VnDeJK8sRyqSyegk5jQujuP9BTOZ1Di9VX/0lYfBhZ2DpAExi51QTd4pIqSgig==
+mongoose@^8.17.1:
+  version "8.17.1"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-8.17.1.tgz#d2feb74b6cf2f465c4430c7844416ecba04b2f0b"
+  integrity sha512-aodS4cacux5caoxB5ErEwRmrafIUsVRJxHnvP7URnSUnTenr32j1qBVV+KjYxryyLSisQkxglAFF69TNLeZTLg==
   dependencies:
     bson "^6.10.4"
     kareem "2.6.3"
-    mongodb "~6.17.0"
+    mongodb "~6.18.0"
     mpath "0.9.0"
     mquery "5.0.0"
     ms "2.1.3"
