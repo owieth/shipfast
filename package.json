@@ -37,7 +37,7 @@
     "react-dom": "^19.1.1",
     "react-hook-form": "^7.64.0",
     "react-hot-toast": "^2.6.0",
-    "stripe": "^18.5.0",
+    "stripe": "^19.1.0",
     "tailwind-merge": "^3.3.1",
     "tailwindcss": "4.1.14",
     "tailwindcss-animate": "^1.0.7",
