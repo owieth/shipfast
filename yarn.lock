@@ -1676,10 +1676,10 @@
     "@smithy/util-buffer-from" "^4.0.0"
     tslib "^2.6.2"
 
-"@stripe/stripe-js@^8.3.0":
-  version "8.3.0"
-  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-8.3.0.tgz#80c173b03fe3cce51c502c3c0652010b45e6cff4"
-  integrity sha512-hmC3u0anySPI+As+wFGrKG38pXnXAUqyiitnYeYknEOslcDM96AkBdMNxKYOopecuP/v1HMbclUEq8/DKKn+6w==
+"@stripe/stripe-js@^8.6.0":
+  version "8.6.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-8.6.0.tgz#ce7d32cdea44faa353f71e2c93dff7fd5f5eef25"
+  integrity sha512-EB0/GGgs4hfezzkiMkinlRgWtjz8fSdwVQhwYS7Sg/RQrSvuNOz+ssPjD+lAzqaYTCB0zlbrt0fcqVziLJrufQ==
 
 "@swc/helpers@0.5.15":
   version "0.5.15"
