@@ -39,7 +39,7 @@
     "react-hot-toast": "^2.6.0",
     "stripe": "^20.1.0",
     "tailwind-merge": "^3.4.0",
-    "tailwindcss": "4.1.17",
+    "tailwindcss": "4.1.18",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "5.9.3"
   },
