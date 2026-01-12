@@ -15,7 +15,7 @@
     "@radix-ui/react-slot": "^1.2.4",
     "@stripe/stripe-js": "^8.6.1",
     "@types/react": "19.2.8",
-    "@types/node": "25.0.3",
+    "@types/node": "25.0.6",
     "@types/react-dom": "19.2.3",
     "autoprefixer": "10.4.23",
     "axios": "^1.13.2",
