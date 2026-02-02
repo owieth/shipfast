@@ -17,7 +17,7 @@
     "@types/react": "19.2.8",
     "@types/node": "25.0.10",
     "@types/react-dom": "19.2.3",
-    "autoprefixer": "10.4.23",
+    "autoprefixer": "10.4.24",
     "axios": "^1.13.2",
     "bcryptjs": "^3.0.3",
     "class-variance-authority": "^0.7.1",
