@@ -26,7 +26,7 @@
     "eslint-config-next": "^16.1.6",
     "http-status-codes": "^2.3.0",
     "jsonwebtoken": "^9.0.3",
-    "lucide-react": "^0.563.0",
+    "lucide-react": "^0.564.0",
     "mongodb": "^6.20.0",
     "mongoose": "^9.2.1",
     "next": "^16.1.6",
