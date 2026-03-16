@@ -3975,10 +3975,10 @@ strip-json-comments@^3.1.1:
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-3.1.1.tgz#31f1281b3832630434831c310c01cccda8cbe006"
   integrity sha512-6fPc+R4ihwqP6N/aIv2f1gMH8lOVtWQHoqC4yK6oSDVVocumAsfCqjkXnqiYMhmMwS/mEHLp7Vehlt3ql6lEig==
 
-stripe@^20.3.1:
-  version "20.3.1"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-20.3.1.tgz#3a2406cbc0e3cb6916b76704de9484d9f2e3a6a1"
-  integrity sha512-k990yOT5G5rhX3XluRPw5Y8RLdJDW4dzQ29wWT66piHrbnM2KyamJ1dKgPsw4HzGHRWjDiSSdcI2WdxQUPV3aQ==
+stripe@^20.4.1:
+  version "20.4.1"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-20.4.1.tgz#547d8a22a97e85a239895f0ffe14de21d96f060a"
+  integrity sha512-axCguHItc8Sxt0HC6aSkdVRPffjYPV7EQqZRb2GkIa8FzWDycE7nHJM19C6xAIynH1Qp1/BHiopSi96jGBxT0w==
 
 styled-jsx@5.1.6:
   version "5.1.6"
