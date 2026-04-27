@@ -2964,10 +2964,10 @@ jws@^4.0.1:
     jwa "^2.0.1"
     safe-buffer "^5.0.1"
 
-kareem@3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/kareem/-/kareem-3.2.0.tgz#8f69b25f9ceac80e9bc46b391008da7fc93d4ab0"
-  integrity sha512-VS8MWZz/cT+SqBCpVfNN4zoVz5VskR3N4+sTmUXme55e9avQHntpwpNq0yjnosISXqwJ3AQVjlbI4Dyzv//JtA==
+kareem@3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/kareem/-/kareem-3.3.0.tgz#174048bd00e2b4a8fc2504f0f53c315b806894da"
+  integrity sha512-kpSuLD3/7RenBnjnJdOHXCKC8dTd1JzeOiJhN0necWWci6cC+qX+VuwPnMVgb+a4+KNJSfgqahpnfWaeDXCimw==
 
 keyv@^4.5.4:
   version "4.5.4"
@@ -3157,12 +3157,12 @@ mongodb@~7.1:
     bson "^7.1.1"
     mongodb-connection-string-url "^7.0.0"
 
-mongoose@^9.4.1:
-  version "9.4.1"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.4.1.tgz#a329c6b99c417bdc3be7cab32fad840051a1b7b0"
-  integrity sha512-4rFBWa+/wdBQSfvnOPJBpiSG6UCEbhSQh865dEdaH9Y8WfHBUC+I2XT28dp0IBIGrEwmh+gzrgZgea5PbmrHWA==
+mongoose@^9.5.0:
+  version "9.5.0"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.5.0.tgz#180458f89977ebdf33652deabb6c127373b25ca1"
+  integrity sha512-B4blGFkFL1s0G24URuMvx0qTlx+gRVLmfO7WcSz8NcmW/XHEJ3G69capdyW1iRsGKiycp1tkwKHnxHbnwjwmPw==
   dependencies:
-    kareem "3.2.0"
+    kareem "3.3.0"
     mongodb "~7.1"
     mpath "0.9.0"
     mquery "6.0.0"
