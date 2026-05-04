@@ -822,10 +822,10 @@
   resolved "https://registry.yarnpkg.com/@rtsao/scc/-/scc-1.1.0.tgz#927dd2fae9bc3361403ac2c7a00c32ddce9ad7e8"
   integrity sha512-zt6OdqaDoOnJ1ZYsCYGt9YmWzDXl4vQdKTyJev62gFhRGKdx7mcT54V9KIjg+d2wi9EXsPvAPKe7i7WjfVWB8g==
 
-"@stripe/stripe-js@^9.3.1":
-  version "9.3.1"
-  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-9.3.1.tgz#2c71b9d62f2a74cd661f46e691a55a13340d5136"
-  integrity sha512-oWpAEENuVg8aw4W2OUAM9WxRDtIV2YTLr2nr6qHT+D8tHPW7bya61ufinPpUespyRNUVXqesnHo+jQdUNsGywA==
+"@stripe/stripe-js@^9.4.0":
+  version "9.4.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-9.4.0.tgz#9b05146680baea498a84d1076fcc607269f00095"
+  integrity sha512-zXG86DnoLU5nH2U18tX5ApTE3IAm+txoiPm4YFyEtRS0K5y7ZDH9M8e1Le/cZyI6wvW3BkJn2daZe2FqZOrSSg==
 
 "@swc/helpers@0.5.15":
   version "0.5.15"
