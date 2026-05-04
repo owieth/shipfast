@@ -31,7 +31,7 @@
     "mongoose": "^9.5.0",
     "next": "^16.2.4",
     "next-auth": "^4.24.14",
-    "nodemailer": "^8.0.5",
+    "nodemailer": "^8.0.7",
     "postcss": "8.5.10",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
@@ -46,6 +46,6 @@
   "devDependencies": {
     "@types/bcryptjs": "^3.0.0",
     "@types/jsonwebtoken": "^9.0.10",
-    "@types/nodemailer": "^7.0.11"
+    "@types/nodemailer": "^8.0.0"
   }
 }
