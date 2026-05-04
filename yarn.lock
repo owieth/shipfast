@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@auth/core@0.41.1":
-  version "0.41.1"
-  resolved "https://registry.yarnpkg.com/@auth/core/-/core-0.41.1.tgz#31f8ce7b0ded266fed54b9407596304cbbd14c65"
-  integrity sha512-t9cJ2zNYAdWMacGRMT6+r4xr1uybIdmYa49calBPeTqwgAFPV/88ac9TEvCR85pvATiSPt8VaNf+Gt24JIT/uw==
+"@auth/core@0.41.2":
+  version "0.41.2"
+  resolved "https://registry.yarnpkg.com/@auth/core/-/core-0.41.2.tgz#c03f14426bcd6e06c1ba4f767e46914a23f4d376"
+  integrity sha512-Hx5MNBxN2fJTbJKGUKAA0wca43D0Akl3TvufY54Gn8lop7F+34vU1zA1pn0vQfIoVuLIrpfc2nkyjwIaPJMW7w==
   dependencies:
     "@panva/hkdf" "^1.2.1"
     jose "^6.0.6"
@@ -13,12 +13,12 @@
     preact "10.24.3"
     preact-render-to-string "6.5.11"
 
-"@auth/mongodb-adapter@^3.11.1":
-  version "3.11.1"
-  resolved "https://registry.yarnpkg.com/@auth/mongodb-adapter/-/mongodb-adapter-3.11.1.tgz#a8c15cccc55aa89ea8208b02bbbf096161cb416d"
-  integrity sha512-xY+VUkC3CNXct8UwQgBAQqXASqolSlIARg6oAm1378CtRN2650tQUCOEnGLNLmroVefUeP73M6t+TpGXq72vwQ==
+"@auth/mongodb-adapter@^3.11.2":
+  version "3.11.2"
+  resolved "https://registry.yarnpkg.com/@auth/mongodb-adapter/-/mongodb-adapter-3.11.2.tgz#cc6187ed743a558062842489718a5e4659d22fb2"
+  integrity sha512-3yKYvPB/7NjDN5VW6iymEdQEKQOezqVpev4heAhN+zxz5G/jOIQdxBu8iF8nIomF8ggY+FRDqysSNwb72JM6dw==
   dependencies:
-    "@auth/core" "0.41.1"
+    "@auth/core" "0.41.2"
 
 "@babel/code-frame@^7.27.1":
   version "7.27.1"
