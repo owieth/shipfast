@@ -3168,10 +3168,10 @@ mongodb@~7.2:
     bson "^7.2.0"
     mongodb-connection-string-url "^7.0.0"
 
-mongoose@^9.6.2:
-  version "9.6.2"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.6.2.tgz#f5462d12fc8d9d4c07d1885eab8ee8d15b62eb82"
-  integrity sha512-7m8HntjkoRnwEmuPC0kdlwcZXJOQf4twumFj+PNzg/anqqZE2Er7hQslqyzy07mP3JcFjoTSgH5765PyqOXsxw==
+mongoose@^9.6.3:
+  version "9.6.3"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.6.3.tgz#e6d09cc5da88be135183926e3837a51614ac2709"
+  integrity sha512-vI6dTTlQnfMCyyQ5TrvhG0bCRs4dq5e1uFNPtOOWsOhn0fSg8AoIHjfyyCYr8aybyvPs845dRHGxsC3w/fHcBA==
   dependencies:
     kareem "3.3.0"
     mongodb "~7.2"
