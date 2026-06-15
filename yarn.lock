@@ -574,16 +574,16 @@
   dependencies:
     "@radix-ui/react-primitive" "2.1.3"
 
-"@radix-ui/react-avatar@^1.1.11":
-  version "1.1.11"
-  resolved "https://registry.yarnpkg.com/@radix-ui/react-avatar/-/react-avatar-1.1.11.tgz#3e24b70d636a12e2806abb2b4ce4b15df395f9c9"
-  integrity sha512-0Qk603AHGV28BOBO34p7IgD5m+V5Sg/YovfayABkoDDBM5d3NCx0Mp4gGrjzLGes1jV5eNOE1r3itqOR33VC6Q==
+"@radix-ui/react-avatar@^1.1.12":
+  version "1.1.12"
+  resolved "https://registry.yarnpkg.com/@radix-ui/react-avatar/-/react-avatar-1.1.12.tgz#b9724d679bf4b7529c1524572fed87eb8badd35a"
+  integrity sha512-NQCQyWC7QrDPhjMn8hUqFeU0lUrprIgm1AyMgLbzuQJibNnatdc3SSMo3/UGFu/eUkJUU1cEcKCnyhXTQzq6tA==
   dependencies:
-    "@radix-ui/react-context" "1.1.3"
-    "@radix-ui/react-primitive" "2.1.4"
-    "@radix-ui/react-use-callback-ref" "1.1.1"
-    "@radix-ui/react-use-is-hydrated" "0.1.0"
-    "@radix-ui/react-use-layout-effect" "1.1.1"
+    "@radix-ui/react-context" "1.1.4"
+    "@radix-ui/react-primitive" "2.1.5"
+    "@radix-ui/react-use-callback-ref" "1.1.2"
+    "@radix-ui/react-use-is-hydrated" "0.1.1"
+    "@radix-ui/react-use-layout-effect" "1.1.2"
 
 "@radix-ui/react-collection@1.1.7":
   version "1.1.7"
@@ -610,10 +610,10 @@
   resolved "https://registry.yarnpkg.com/@radix-ui/react-context/-/react-context-1.1.2.tgz#61628ef269a433382c364f6f1e3788a6dc213a36"
   integrity sha512-jCi/QKUM2r1Ju5a3J64TH2A5SpKAgh0LpknyqdQ4m6DCV0xJ2HG1xARRwNGPQfi1SLdLWZ1OJz6F4OMBBNiGJA==
 
-"@radix-ui/react-context@1.1.3":
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/@radix-ui/react-context/-/react-context-1.1.3.tgz#81286f643b310d040eaac13b18e223130861d839"
-  integrity sha512-ieIFACdMpYfMEjF0rEf5KLvfVyIkOz6PDGyNnP+u+4xQ6jny3VCgA4OgXOwNx2aUkxn8zx9fiVcM8CfFYv9Lxw==
+"@radix-ui/react-context@1.1.4":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@radix-ui/react-context/-/react-context-1.1.4.tgz#5e39f26ebbefed27836e46e763e8f71e09999ccd"
+  integrity sha512-QwH4PO5urrbO+FaGd5Aglg+YJgWTyyuZ3g/6mKvsqraLkglDdckw9JafgL5McL5VEJ6EPNduPaT3ZE9BttDAqg==
 
 "@radix-ui/react-direction@1.1.1":
   version "1.1.1"
@@ -728,12 +728,12 @@
   dependencies:
     "@radix-ui/react-slot" "1.2.3"
 
-"@radix-ui/react-primitive@2.1.4":
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/@radix-ui/react-primitive/-/react-primitive-2.1.4.tgz#2626ea309ebd63bf5767d3e7fc4081f81b993df0"
-  integrity sha512-9hQc4+GNVtJAIEPEqlYqW5RiYdrr8ea5XQ0ZOnD6fgru+83kqT15mq2OCcbe8KnjRZl5vF3ks69AKz3kh1jrhg==
+"@radix-ui/react-primitive@2.1.5":
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@radix-ui/react-primitive/-/react-primitive-2.1.5.tgz#4582608da1cde691c8c9a7642666c6f648ee601f"
+  integrity sha512-zifXeB8Y88qCYx8PLZ5oQb32KwZub+s925mMoZsBBq9KUQqWKkREubTfs6ASjRPPBe7Jt9O8OHH89+95VG+grA==
   dependencies:
-    "@radix-ui/react-slot" "1.2.4"
+    "@radix-ui/react-slot" "1.2.5"
 
 "@radix-ui/react-roving-focus@1.1.11":
   version "1.1.11"
@@ -757,14 +757,7 @@
   dependencies:
     "@radix-ui/react-compose-refs" "1.1.2"
 
-"@radix-ui/react-slot@1.2.4":
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/@radix-ui/react-slot/-/react-slot-1.2.4.tgz#63c0ba05fdf90cc49076b94029c852d7bac1fb83"
-  integrity sha512-Jl+bCv8HxKnlTLVrcDE8zTMJ09R9/ukw4qBs/oZClOfoQk/cOTbDn+NceXfV7j09YPVQUryJPHurafcSg6EVKA==
-  dependencies:
-    "@radix-ui/react-compose-refs" "1.1.2"
-
-"@radix-ui/react-slot@^1.2.5":
+"@radix-ui/react-slot@1.2.5", "@radix-ui/react-slot@^1.2.5":
   version "1.2.5"
   resolved "https://registry.yarnpkg.com/@radix-ui/react-slot/-/react-slot-1.2.5.tgz#159bf186ee6e6f07240941c2b1a228097f0c69fa"
   integrity sha512-rCMO3QsIVKv5JTY5CVbo2MvO77SpEqqYc8AvRE7OWqRDOIqAKjsp+DrmnY9uc8NPdxB5E2z47HTYGeE2+NTptg==
@@ -775,6 +768,11 @@
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@radix-ui/react-use-callback-ref/-/react-use-callback-ref-1.1.1.tgz#62a4dba8b3255fdc5cc7787faeac1c6e4cc58d40"
   integrity sha512-FkBMwD+qbGQeMu1cOHnuGB6x4yzPjho8ap5WtbEJ26umhgqVXbhekKUQO+hZEL1vU92a3wHwdp0HAcqAUF5iDg==
+
+"@radix-ui/react-use-callback-ref@1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@radix-ui/react-use-callback-ref/-/react-use-callback-ref-1.1.2.tgz#ddc0bc1381ff3b62368c248808efc45a098bafde"
+  integrity sha512-xCso9j1/u8sEgP1RNHjFrXJLApL8LiqOkI1R4ywuN00rxWdYg4oQXuwKLS3i0j5NWLromUD27/4nlxj2UFVvIw==
 
 "@radix-ui/react-use-controllable-state@1.2.2":
   version "1.2.2"
@@ -798,17 +796,20 @@
   dependencies:
     "@radix-ui/react-use-callback-ref" "1.1.1"
 
-"@radix-ui/react-use-is-hydrated@0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@radix-ui/react-use-is-hydrated/-/react-use-is-hydrated-0.1.0.tgz#544da73369517036c77659d7cdd019dc0f5ff9a0"
-  integrity sha512-U+UORVEq+cTnRIaostJv9AGdV3G6Y+zbVd+12e18jQ5A3c0xL03IhnHuiU4UV69wolOQp5GfR58NW/EgdQhwOA==
-  dependencies:
-    use-sync-external-store "^1.5.0"
+"@radix-ui/react-use-is-hydrated@0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@radix-ui/react-use-is-hydrated/-/react-use-is-hydrated-0.1.1.tgz#61a18cb03430a6d2e704eb2afd3067505ed0f292"
+  integrity sha512-qwOiz4Tjo8CNnrOLAYUMXeZwDzXgXpvK4TKQPmWLECM9XoWvA6+0Z2/7Ag3A4ivjS4ovbLJPbskkxioFyBhr8A==
 
 "@radix-ui/react-use-layout-effect@1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@radix-ui/react-use-layout-effect/-/react-use-layout-effect-1.1.1.tgz#0c4230a9eed49d4589c967e2d9c0d9d60a23971e"
   integrity sha512-RbJRS4UWQFkzHTTwVymMTUv8EqYhOp8dOOviLj2ugtTiXRaRQS7GLGxZTLL1jWhMeoSCf5zmcZkqTl9IiYfXcQ==
+
+"@radix-ui/react-use-layout-effect@1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@radix-ui/react-use-layout-effect/-/react-use-layout-effect-1.1.2.tgz#c882e66497174d061f250e65251974b699c65b65"
+  integrity sha512-jrBWOxZITuGcnjRCM2t2U5ZPkCLxD+Ym6DjfssS5haTj2iiak/DOb64JeN6OdLfLgptb6/e2kKR+ZuTrGoZTPA==
 
 "@radix-ui/react-use-rect@1.1.1":
   version "1.1.1"
@@ -4251,11 +4252,6 @@ use-sidecar@^1.1.3:
   dependencies:
     detect-node-es "^1.1.0"
     tslib "^2.0.0"
-
-use-sync-external-store@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/use-sync-external-store/-/use-sync-external-store-1.5.0.tgz#55122e2a3edd2a6c106174c27485e0fd59bcfca0"
-  integrity sha512-Rb46I4cGGVBmjamjphe8L/UnvJD+uPPtTkNvX5mZgqdbavhI4EbgIWJiIHXJ8bc/i9EQGPRh4DwEURJ552Do0A==
 
 uuid@^8.3.2:
   version "8.3.2"
