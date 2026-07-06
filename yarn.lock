@@ -842,6 +842,11 @@
   resolved "https://registry.yarnpkg.com/@rtsao/scc/-/scc-1.1.0.tgz#927dd2fae9bc3361403ac2c7a00c32ddce9ad7e8"
   integrity sha512-zt6OdqaDoOnJ1ZYsCYGt9YmWzDXl4vQdKTyJev62gFhRGKdx7mcT54V9KIjg+d2wi9EXsPvAPKe7i7WjfVWB8g==
 
+"@standard-schema/spec@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@standard-schema/spec/-/spec-1.1.0.tgz#a79b55dbaf8604812f52d140b2c9ab41bc150bb8"
+  integrity sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w==
+
 "@stripe/stripe-js@^9.8.0":
   version "9.8.0"
   resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-9.8.0.tgz#df346eb64cf770128b7d7dcaa9ca24df3b7e2f49"
@@ -3200,11 +3205,12 @@ mongodb@~7.2:
     bson "^7.2.0"
     mongodb-connection-string-url "^7.0.0"
 
-mongoose@^9.6.3:
-  version "9.6.3"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.6.3.tgz#e6d09cc5da88be135183926e3837a51614ac2709"
-  integrity sha512-vI6dTTlQnfMCyyQ5TrvhG0bCRs4dq5e1uFNPtOOWsOhn0fSg8AoIHjfyyCYr8aybyvPs845dRHGxsC3w/fHcBA==
+mongoose@^9.7.3:
+  version "9.7.3"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.7.3.tgz#df005bdb25a0ada692f334670ab479ccdd6f5767"
+  integrity sha512-9DsD4sq0tL9IKyfttZ6qn74KXBcD4lxDTzGXoAeOLMnDFFp1gqc5oc4s2BiMPbetJrLwvVylfyR4cqLst2pasQ==
   dependencies:
+    "@standard-schema/spec" "^1.1.0"
     kareem "3.3.0"
     mongodb "~7.2"
     mpath "0.9.0"
