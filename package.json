@@ -33,7 +33,7 @@
     "next-auth": "^4.24.15",
     "nodemailer": "^9.0.3",
     "postcss": "8.5.20",
-    "react": "^19.2.7",
+    "react": "^19.2.8",
     "react-dom": "^19.2.7",
     "react-hook-form": "^7.81.0",
     "react-hot-toast": "^2.6.0",
