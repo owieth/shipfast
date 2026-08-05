@@ -29,7 +29,7 @@
     "lucide-react": "^1.28.0",
     "mongodb": "^6.20.0",
     "mongoose": "^9.7.4",
-    "next": "^16.2.12",
+    "next": "^16.3.0",
     "next-auth": "^4.24.15",
     "nodemailer": "^9.0.3",
     "postcss": "8.5.25",
