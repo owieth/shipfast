@@ -3284,10 +3284,10 @@ node-releases@^2.0.53:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.54.tgz#09af17d5647aa9f221ec5cf2becb95b68a981afe"
   integrity sha512-YHs7BmmcsdAI5Ozuf8JZo6PT0mv2GIWC9vMfvUC3dp65M8hn7Ux8CPL+2oBI7juNuj9d0ndhTcznq2ODBps9cQ==
 
-nodemailer@^10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-10.0.0.tgz#b1622f98bc87646ea8b847e6c1101cd2179c8cdd"
-  integrity sha512-wdv+hXBg0iIPIOf108FaZyTxqjQpCvQeAJt9pHHTooPy/y3vQtI9eiImM9AIVKR3e/0FeMA1oueNfBjFJcaK+Q==
+nodemailer@^10.0.3:
+  version "10.0.3"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-10.0.3.tgz#f1fa53fa12f6effe1c2c3c89ef7fb3410e3b6027"
+  integrity sha512-h5c8ypcMoOIh44bIcVROvTDbjRdOJX8AXTkxMht2C92HlSjkG+/8kjoqmNPypfjQaVNaUHWyZ3tqs5I3K91F3g==
 
 oauth4webapi@^3.3.0:
   version "3.3.1"
