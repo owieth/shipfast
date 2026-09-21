@@ -550,10 +550,10 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-16.3.5.tgz#32fd0528a0deb720c139d6d25737b657e6ba57a3"
   integrity sha512-NWEXVDMqoEo0ktmU6u0sE2Vg0LOcsD7NnOTJNo3/fEaTfsg+F1bMIxuDmQbda4e3yTIQwVdUREF2yIuMOusKtg==
 
-"@next/eslint-plugin-next@16.3.3":
-  version "16.3.3"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-16.3.3.tgz#89c4057cf248687284e4db6f343e66296e8457a5"
-  integrity sha512-pbEh30vvjKpDoTAmo1v3q2uM4JUi8QaEBpbmjWvGfoec2jLghy/WNtvzAT0bk+Ik9oz6etjt4YjXEk4BQnicCw==
+"@next/eslint-plugin-next@16.3.5":
+  version "16.3.5"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-16.3.5.tgz#487996bdc5197bdb619cce3d4a3ca54e57f8cfe3"
+  integrity sha512-PGfSeItHJ12DH8t+6sEbuMe59NE5rAhCfgk06QKTH2ne9VUL1JlaXdYXY3B8RaiF2SO50rDYvd39TulP6A6xZQ==
   dependencies:
     "@eslint-community/eslint-utils" "4.9.1"
     fast-glob "3.3.1"
@@ -2001,12 +2001,12 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-next@^16.3.3:
-  version "16.3.3"
-  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-16.3.3.tgz#bc1d635194f4d81ef4ef9338547b20a432022e2b"
-  integrity sha512-teqtsR26tnlfXFHfVLTM/4tzEzU8DMu6GS1sddZzhfGzgd2f2ofbgDUcsk6cssSCzX6Tk6fmWifJcdANSdPJrw==
+eslint-config-next@^16.3.5:
+  version "16.3.5"
+  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-16.3.5.tgz#ae4234db76020e1c391ca3e797e4c0e158a06c48"
+  integrity sha512-wPjq9MLQuWykHs8tsm2gH6OJThk6N27L8Te2JatlaGZ7jT1gtgGmJKukygL28xOlWsg5J1a1bGy/PvLyQC8OYA==
   dependencies:
-    "@next/eslint-plugin-next" "16.3.3"
+    "@next/eslint-plugin-next" "16.3.5"
     eslint-import-resolver-node "^0.3.6"
     eslint-import-resolver-typescript "^3.5.2"
     eslint-plugin-import "^2.32.0"
