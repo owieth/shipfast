@@ -538,10 +538,10 @@
   dependencies:
     sparse-bitfield "^3.0.3"
 
-"@mongodb-js/saslprep@^1.4.11":
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/@mongodb-js/saslprep/-/saslprep-1.5.0.tgz#b2a32d0b6ab742e638c816bc12ad8483d9c62997"
-  integrity sha512-Hk1SKJCMcCos38+vqDnZzlIo4XRj9yCGzYkjB4LcqpeXRIYfia1UWTz+VrueLxoU+uSRJzgkufxoRZg8gi52YA==
+"@mongodb-js/saslprep@^1.5.0":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@mongodb-js/saslprep/-/saslprep-1.6.1.tgz#c3da2d4013e5fe3d22661da3f8ec36b231a30de7"
+  integrity sha512-D4CQtk9IwjCLAvCf1xvHEod3960q8XMUzfmdRU9qjUNlHnesGuTOvJcOTaPm9koZ1caUKA2aTbszZiAkcmSgmg==
   dependencies:
     sparse-bitfield "^3.0.3"
 
@@ -1368,10 +1368,10 @@ bson@^6.10.4:
   resolved "https://registry.yarnpkg.com/bson/-/bson-6.10.4.tgz#d530733bb5bb16fb25c162e01a3344fab332fd2b"
   integrity sha512-WIsKqkSC0ABoBJuT1LEX+2HEvNmNKKgnTAyd0fL8qzK4SH2i9NXg+t08YtdZp/V9IZ33cxe3iV4yM0qg8lMQng==
 
-bson@^7.2.0:
-  version "7.2.0"
-  resolved "https://registry.yarnpkg.com/bson/-/bson-7.2.0.tgz#1a496a42d9ff130b9f3ab8efd465459c758c747f"
-  integrity sha512-YCEo7KjMlbNlyHhz7zAZNDpIpQbd+wOEHJYezv0nMYTn4x31eIUM2yomNNubclAt63dObUzKHWsBLJ9QcZNSnQ==
+bson@^7.3.2:
+  version "7.3.3"
+  resolved "https://registry.yarnpkg.com/bson/-/bson-7.3.3.tgz#c0183c023d02e81b528275129ef4b23ad7d449dd"
+  integrity sha512-oz3LwE3qGEhTCSyhzQRLY3Bj1NLOsjFMf6tcmY5J8M+3R7EVcmoBfSHWvjUK3yXCLDUsGpIuB3aQL4nDZ1EV/g==
 
 buffer-equal-constant-time@^1.0.1:
   version "1.0.1"
@@ -3036,10 +3036,10 @@ jws@^4.0.1:
     jwa "^2.0.1"
     safe-buffer "^5.0.1"
 
-kareem@3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/kareem/-/kareem-3.3.0.tgz#174048bd00e2b4a8fc2504f0f53c315b806894da"
-  integrity sha512-kpSuLD3/7RenBnjnJdOHXCKC8dTd1JzeOiJhN0necWWci6cC+qX+VuwPnMVgb+a4+KNJSfgqahpnfWaeDXCimw==
+kareem@3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/kareem/-/kareem-3.4.1.tgz#468c10416476f86bcef127d00f937cbb0a029e3b"
+  integrity sha512-UlgCAFNAdk/HLSsbfkmbH8pJqpEN52Ek8RG53Ys1i3Q3gbCQruSrWpplZlgIGyDHX/LNoLW97ei3OG43s7UhUA==
 
 keyv@^4.5.4:
   version "4.5.4"
@@ -3203,7 +3203,7 @@ mongodb-connection-string-url@^3.0.2:
     "@types/whatwg-url" "^11.0.2"
     whatwg-url "^14.1.0 || ^13.0.0"
 
-mongodb-connection-string-url@^7.0.1:
+mongodb-connection-string-url@^7.0.2:
   version "7.0.2"
   resolved "https://registry.yarnpkg.com/mongodb-connection-string-url/-/mongodb-connection-string-url-7.0.2.tgz#a58163e04a900b7da38054de03b36d6f8b6d3ad1"
   integrity sha512-ZoS07RoFqpKYQwAk59qmrx8+jJHNHU30UjlU96QktiGn1ltvDr+vCznLX5DiUBLEpMAHatHNWV1nM/74ul66kA==
@@ -3220,23 +3220,23 @@ mongodb@^6.20.0:
     bson "^6.10.4"
     mongodb-connection-string-url "^3.0.2"
 
-mongodb@~7.5:
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-7.5.0.tgz#f87d212b394a05e610ee1c3a0b886bea55ab3c13"
-  integrity sha512-5FnrEDLnvp6ycUOGLNLLU33BfCx2qmp2mJjGPDwKLruYsVzXVSK5fsGpoDXvsXJwBfBsD7ebMRdawbDxC2814g==
+mongodb@~7.7:
+  version "7.7.0"
+  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-7.7.0.tgz#e7b7bccf0199d7ec5a5c2eebae7c376b606c2743"
+  integrity sha512-XG1xXEqyouAV8GCb3PuRaujofeXKpAJAPvXYWZgHl6Dz4QHSJ1nRLl0+GpqaLTwKvC0RFE9truOur34RNFY1nw==
   dependencies:
-    "@mongodb-js/saslprep" "^1.4.11"
-    bson "^7.2.0"
-    mongodb-connection-string-url "^7.0.1"
+    "@mongodb-js/saslprep" "^1.5.0"
+    bson "^7.3.2"
+    mongodb-connection-string-url "^7.0.2"
 
-mongoose@^9.9.3:
-  version "9.9.3"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.9.3.tgz#666bc52edbc02c5ae2eb66396dddcc713fa29299"
-  integrity sha512-9dQaKct05LNgVkunDzFPZsGGBhinobl3Qc5B5KYJkLNG5lBLgqESUEItl1EUIkVaCwZJGBgTuvJiFAjjIATCiw==
+mongoose@^9.11.2:
+  version "9.11.2"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.11.2.tgz#4df6a5cf6ea6a571433cde3f9ba8bd4b1bb2dfd3"
+  integrity sha512-hFkl/2dccpD58coRAya3a/ht8ooAx9YPLzBfxVX9bEsgcrjsNkvuWQe8gplGfDdmzpw2RfFX1IB/G8PiFwyvwg==
   dependencies:
     "@standard-schema/spec" "^1.1.0"
-    kareem "3.3.0"
-    mongodb "~7.5"
+    kareem "3.4.1"
+    mongodb "~7.7"
     mpath "0.9.0"
     mquery "6.0.0"
     ms "2.1.3"
