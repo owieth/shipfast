@@ -32,7 +32,7 @@
     "next": "^16.4.0",
     "next-auth": "^4.24.15",
     "nodemailer": "^10.1.1",
-    "postcss": "8.5.29",
+    "postcss": "8.5.31",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "react-hook-form": "^7.90.0",
