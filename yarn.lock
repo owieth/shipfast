@@ -3235,37 +3235,37 @@ mongodb@^6.20.0:
     bson "^6.10.4"
     mongodb-connection-string-url "^3.0.2"
 
-mongodb@~7.7:
-  version "7.7.0"
-  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-7.7.0.tgz#e7b7bccf0199d7ec5a5c2eebae7c376b606c2743"
-  integrity sha512-XG1xXEqyouAV8GCb3PuRaujofeXKpAJAPvXYWZgHl6Dz4QHSJ1nRLl0+GpqaLTwKvC0RFE9truOur34RNFY1nw==
+mongodb@~7.8:
+  version "7.8.0"
+  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-7.8.0.tgz#d9f7a9d40caecbdaef9a34ed6806c39c4571615a"
+  integrity sha512-p2NKagbQ41+daACG/ZSvhTzeAo+DoEyWE9Cmpf/SyP3pTC43+X0mwKE/44PpKtCxp5wOxnXz+t2pXEZRSkt9Yg==
   dependencies:
     "@mongodb-js/saslprep" "^1.5.0"
     bson "^7.3.2"
     mongodb-connection-string-url "^7.0.2"
 
-mongoose@^9.11.2:
-  version "9.11.2"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.11.2.tgz#4df6a5cf6ea6a571433cde3f9ba8bd4b1bb2dfd3"
-  integrity sha512-hFkl/2dccpD58coRAya3a/ht8ooAx9YPLzBfxVX9bEsgcrjsNkvuWQe8gplGfDdmzpw2RfFX1IB/G8PiFwyvwg==
+mongoose@^9.12.0:
+  version "9.12.0"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-9.12.0.tgz#4cb1bafb245a2ce4ebd1a871ca1ff0a5e4c2d2c1"
+  integrity sha512-nM8yl6hPcXuT+LbJYV7aFk1PmBF+0xR159pHHlaDzrovT89yQ5k+ty38Vcnd5elLYixndveBFtHJaWS9b80cKg==
   dependencies:
     "@standard-schema/spec" "^1.1.0"
     kareem "3.4.1"
-    mongodb "~7.7"
+    mongodb "~7.8"
     mpath "0.9.0"
-    mquery "6.0.0"
+    mquery "6.0.1"
     ms "2.1.3"
-    sift "17.1.3"
+    sift "17.1.4"
 
 mpath@0.9.0:
   version "0.9.0"
   resolved "https://registry.yarnpkg.com/mpath/-/mpath-0.9.0.tgz#0c122fe107846e31fc58c75b09c35514b3871904"
   integrity sha512-ikJRQTk8hw5DEoFVxHG1Gn9T/xcjtdnOKIU1JTmGjZZlg9LST2mBLmcX3/ICIbgJydT2GOc15RnNy5mHmzfSew==
 
-mquery@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/mquery/-/mquery-6.0.0.tgz#ef6d744619ff13368c1b137d09a7adc5530fce9e"
-  integrity sha512-b2KQNsmgtkscfeDgkYMcWGn9vZI9YoXh802VDEwE6qc50zxBFQ0Oo8ROkawbPAsXCY1/Z1yp0MagqsZStPWJjw==
+mquery@6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/mquery/-/mquery-6.0.1.tgz#4b98f9e19fc7b226c89bc06e5e11f254c16a4877"
+  integrity sha512-/Nijmq3JcpHwDM+5CwBp5yEl6fUa6jLsIhPsoQywlGXU/ZrKIvSpBzfaGnW9BLqcne/CoUwd1ch7MRqptDgFTA==
 
 ms@2.1.3, ms@^2.1.1, ms@^2.1.3:
   version "2.1.3"
@@ -3957,10 +3957,10 @@ side-channel@^1.1.0:
     side-channel-map "^1.0.1"
     side-channel-weakmap "^1.0.2"
 
-sift@17.1.3:
-  version "17.1.3"
-  resolved "https://registry.yarnpkg.com/sift/-/sift-17.1.3.tgz#9d2000d4d41586880b0079b5183d839c7a142bf7"
-  integrity sha512-Rtlj66/b0ICeFzYTuNvX/EF1igRbbnGSvEyT79McoZa/DeGhMyC5pWKOEsZKnpkqtSeovd5FL/bjHWC3CIIvCQ==
+sift@17.1.4:
+  version "17.1.4"
+  resolved "https://registry.yarnpkg.com/sift/-/sift-17.1.4.tgz#636cfbc06abb549ebf0f51459071a0afb5de7630"
+  integrity sha512-/OIVvj9Ts1mFwTYzW09YODMPeIOnDoigMOvKSIN44OmaCyhuCH/05UPF45XW7Ax0snmzDzCzdlSYqvqsn8+sIg==
 
 source-map-js@^1.2.1, source-map-js@^1.2.2:
   version "1.2.2"
